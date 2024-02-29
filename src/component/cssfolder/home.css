@@ -1,0 +1,114 @@
+/* .vedio {
+    height: 1000vh;
+    width: 100%;
+    position: fixed;
+    z-index: -1;
+    object-fit: cover;
+
+} */
+
+.img1 {
+    background-image: url('../../Assetss/home/IMG-20240224-WA0024.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+}
+
+.c1 {
+
+    display: flex;
+}
+
+.c2 {
+    padding: 50px;
+
+}
+
+.ci:hover {
+    transform: scale(0.6);
+    transition-duration: 1s;
+}
+
+.cc1:hover {
+    border-top: gray solid 5px;
+    background-image: url("../../Assetss/home/Orange and Green Organic Illustration Candle Product Label (4).jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.cc2:hover {
+    border-top: gray solid 5px;
+    background-image: url("../../Assetss/home/Orange and Green Organic Illustration Candle Product Label (5).jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.cc3:hover {
+    border-top: gray solid 5px;
+    background-image: url("../../Assetss/home/Orange and Green Organic Illustration Candle Product Label (6).jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.cc4:hover {
+    border-top: gray solid 5px;
+    background-image: url("../../Assetss/home/Orange and Green Organic Illustration Candle Product Label (7).jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.ccc4:hover {
+    border-top: gray solid 5px;
+    background-image: url("../../Assetss/home/imagesorange.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.ccc2:hover {
+    border-top: gray solid 5px;
+    background-image: url("../../Assetss/home/images\ melons.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+.ccc3:hover {
+    border-top: gray solid 5px;
+    background-image: url("../../Assetss/home/green\ apple\ images.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.ccc1:hover {
+    border-top: gray solid 5px;
+    background-image: url("../../Assetss/home/love spell images.jpeg");
+    background-repeat: no-repeat;
+    background-size:contain;
+}
+.hh13{
+    background-color: rgb(225, 225, 225);
+}
+.atag{
+    font-family: serif;
+    text-decoration: none;
+    color: black;
+}
+.atag:hover{
+    color: blue;
+}
+
+.icons1{
+    color: white;
+    font-size: 40px
+}
+.a3{
+    text-align: center;
+    padding-left: 8%;
+    padding-right: 8%;
+}
+.a2{
+    text-align: start;
+    font-size: 28px;
+}
+.bord{
+   
+    box-sizing: border-box;
+    box-shadow: 3px 3px 3px 3px;
+}

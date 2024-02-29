@@ -7,10 +7,18 @@
   pointer-events: none;
 }
 
+.fontfamily{
+  font-family: serif;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
+}
+
+.content {
+  padding: 20px;
 }
 
 .App-header {

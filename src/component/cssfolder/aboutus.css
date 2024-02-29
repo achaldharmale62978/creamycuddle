@@ -1,0 +1,37 @@
+.amain{
+    padding: 50px;
+    font-family: serif;
+    text-align: justify;
+    border-style:double;
+    border-color: black;
+}
+.a1{
+    text-align: center;
+    
+}
+.a2{
+    text-align: start;
+    font-size: 23px;
+}
+.a3{
+    text-align: justify;
+}
+.aa3{
+    
+    padding-left: 8%;
+    padding-right: 8%;
+}
+.aaa3{
+    padding-left: 8%;
+    padding-right: 8%;
+}
+.certify1{
+    box-sizing: border-box;
+    box-shadow: 2px 2px 2px 3px;
+}
+.certify1:hover{
+    transform: scale(1.1);
+    transition-duration: 1s;
+    box-sizing: border-box;
+    box-shadow: 2px 2px 2px 3px;
+}
