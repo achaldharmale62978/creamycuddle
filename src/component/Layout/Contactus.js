@@ -30,7 +30,7 @@ const Contactus = () => {
         <>
             <div>
 
-                <div style={{ backgroundColor: 'slateblue', padding: '3px' }}>
+                <div style={{ backgroundColor:  'rgb(136, 136, 246)', padding: '3px' }}>
                     <h3 className='fontfamily' style={{ fontWeight: 'bolder' }}> <i>*   &ensp; <u>Free Shipping on Order Above Rs.499/-  </u> &ensp;  * </i></h3>
                 </div>
 
