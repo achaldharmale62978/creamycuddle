@@ -11,7 +11,7 @@ const Navbar = () => {
                 <nav className="navbar navbar-light bg-light ">
                     <div className="container-fluid">
                         <a className="navbar-brand" href="#" >
-                            <img src={logo} height='120px' width='150px'></img>
+                            <img src={logo} height='80px' width='100px'  class="d-inline-block align-text-top" ></img>
                         </a>
 
                         <button className="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar">
@@ -60,6 +60,8 @@ const Navbar = () => {
                     </div>
 
                 </nav>
+
+               
             </div>
         </>
     )
