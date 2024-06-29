@@ -1,3 +1,8 @@
+
+* {
+font-family: serif;
+ }
+
 /* .vedio {
     height: 1000vh;
     width: 100%;
@@ -6,21 +11,32 @@
     object-fit: cover;
 
 } */
+.amain{
+    padding: 10px;
+}
+
 
 .img1 {
     background-image: url('../../Assetss/home/IMG-20240224-WA0024.jpg');
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
     height: 800px;
 }
-
-.c1 {
-
-    display: flex;
+.fontsize{
+    font-size: 20px;
+}
+.b{
+    font-weight: bold;
 }
 
-.c2 {
-    padding: 50px;
+.t1 {
+
+   text-align:start;
+}
+
+.c{
+    color: gray;
 
 }
 
@@ -99,16 +115,21 @@
     font-size: 40px
 }
 .a3{
-    text-align: center;
+    text-align: start;
     padding-left: 8%;
     padding-right: 8%;
 }
 .a2{
     text-align: start;
-    font-size: 28px;
+    
 }
 .bord{
    
     box-sizing: border-box;
     box-shadow: 3px 3px 3px 3px;
+}
+.d-block,.mb-1{
+    text-decoration: none;
+    color: rgb(50, 50, 50);
+    
 }

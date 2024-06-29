@@ -1,9 +1,15 @@
+*{
+    font-family: serif;
+}
+.fontf{
+    font-family: serif;
+}
+
 .amain{
-    padding: 50px;
+    padding: 10px;
     font-family: serif;
     text-align: justify;
-    border-style:double;
-    border-color: black;
+   
 }
 .a1{
     text-align: center;
@@ -11,11 +17,9 @@
 }
 .a2{
     text-align: start;
-    font-size: 23px;
+   
 }
-.a3{
-    text-align: justify;
-}
+
 .aa3{
     
     padding-left: 8%;
@@ -37,4 +41,11 @@
 }
 .a{
     background-color: rgb(136, 136, 246);
+}
+.hh13{
+    background-color: rgb(225, 225, 225);
+    
+}
+.fonts{
+    font-size: 19px;
 }
