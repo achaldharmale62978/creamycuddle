@@ -50,7 +50,7 @@ const Home = () => {
                         <div>
                             <p className='a3 fontfamily fontsize'>
                                 <ul>
-                                    <li> Camel milk contains high levels of Vitamins A, C, D & E, harnessing their antioxidant properties for skin health. Vitamin C promotes collagen, Vitamin D fights acne & rashes, and other elements like Potassium, Calcium, Selenium, and Zinc contribute to various skin benefits. With a water content of 86-88%, lowest lactose level, and essential oils for aromatherapy, it is ideal for conditions like Eczema & psoriasis.</li>
+                                    <li>Camel milk contains high levels of Vitamins A, C, D & E, harnessing their antioxidant properties for skin health. Vitamin C promotes collagen, Vitamin D fights acne & rashes, and other elements like Potassium, Calcium, Selenium, and Zinc contribute to various skin benefits. With a water content of 86-88%, lowest lactose level, and essential oils for aromatherapy, it is ideal for conditions like Eczema & psoriasis.</li>
                                     <li>Camel milk nourishes and moisturize delicate skin while soothing irritation with its anti-inflammatory properties. It's less allergenic than cow's milk, making it suitable for sensitive skin, and contains lysozyme, which helps prevent bacterial infections. Regular use maintains skin pH, promoting overall skin health and reducing the risk of issues like acne or rashes.</li>
                                 </ul>
                             </p>
