@@ -44,11 +44,11 @@ const Contactus = () => {
                 <Navbar />
                 <div>
 
-                    <div className="ratio ratio-16*9" >
+                    {/* <div className="ratio ratio-16*9" >
                         <video className="w-100" controls muted loop autoPlay>
                             <source src={video1} type="video/mp4" />
                         </video>
-                    </div><br />
+                    </div><br /> */}
 
                     <div className='fontfamily'>
                         {showmessage && (
