@@ -44,8 +44,8 @@ const Contactus = () => {
                 <Navbar />
                 <div>
 
-                    <div className="embed-responsive embed-responsive-16by9" >
-                        <video className="embed-responsive-item" controls muted loop autoPlay>
+                    <div className="ratio ratio-16*9" >
+                        <video className="w-100" controls muted loop autoPlay>
                             <source src={video1} type="video/mp4" />
                         </video>
                     </div><br />
