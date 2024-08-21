@@ -1,6 +1,6 @@
 
 * {
-font-family: serif;
+font-family:'Times New Roman', Times, serif;
  }
 
 /* .vedio {
@@ -133,3 +133,20 @@ font-family: serif;
     color: rgb(50, 50, 50);
     
 }
+.fani{
+    animation-duration:5s;
+    animation-name: slidein;
+}
+  
+  @keyframes slidein {
+    from {
+      translate: 150vw 0;
+      scale: 200% 1;
+    }
+  
+    to {
+      translate: 0 0;
+      scale: 100% 1;
+    }
+  }
+  

@@ -43,11 +43,11 @@ const Home = () => {
                         <div className="row">
                             <div className="col-12 img1"></div>
                         </div>
-                        <div className='mt-5'>
-                            <h3 className='fontfamily text-center' style={{ fontWeight: 'bold' }}> <i>* OUR PRODUCTS * </i></h3>
+                        <div className='mt-5 fani'>
+                            <h3 className='fontfamily text-center' style={{ fontWeight: 'bold' }}> * OUR PRODUCTS * </h3>
                         </div>
 
-                        <div>
+                        <div className='fani'>
                             <p className='a3 fontfamily fontsize'>
                                 <ul>
                                     <li>Camel milk contains high levels of Vitamins A, C, D & E, harnessing their antioxidant properties for skin health. Vitamin C promotes collagen, Vitamin D fights acne & rashes, and other elements like Potassium, Calcium, Selenium, and Zinc contribute to various skin benefits. With a water content of 86-88%, lowest lactose level, and essential oils for aromatherapy, it is ideal for conditions like Eczema & psoriasis.</li>
@@ -55,7 +55,7 @@ const Home = () => {
                                 </ul>
                             </p>
                         </div>
-                        <div className='proj2 c1 c2row g-4 inline ' style={{ display: 'flex' }}>&ensp;&ensp;&ensp;&ensp;
+                        <div className= 'fani proj2 c1 c2row g-4 inline ' style={{ display: 'flex' }}>&ensp;&ensp;&ensp;&ensp;
 
                             <div class="card cc4 " style={{ width: " 18rem" }}>
                                 <img src={card1} class="card-img-top ci" alt="..." />
@@ -75,7 +75,7 @@ const Home = () => {
                         </div><br /><br />
 
                         <div>
-                            <h2 className='fontfamily text-center' style={{ fontWeight: 'bold', }}>--  <i>Get 25% off on your First Purchase ! </i>  --</h2>
+                            <h2 className='fontfamily text-center' style={{ fontWeight: 'bold', }}>--  Get 25% off on your First Purchase !   --</h2>
                         </div><br /><br /><br />
 
                         <div className='proj2  '>
@@ -127,7 +127,7 @@ const Home = () => {
                             <br />
                             <div className='text-center'>
 
-                                <h3 className='fontfamily' style={{ fontWeight: 'bold' }}> <i>* * * </i></h3>
+                                <h3 className='fontfamily' style={{ fontWeight: 'bold' }}> * * * </h3>
 
                                 <p className='a3 fontfaily fontsize'>
                                     <ul>
@@ -183,7 +183,7 @@ const Home = () => {
                         </div><br /><br />
 
                         <div style={{ textAlign: 'center' }}>
-                            <h3 className='fontfamily' style={{ fontWeight: 'bolder' }}> <i>*   &ensp; <u>99% Safe for Children's Skin </u> &ensp;  * </i></h3>
+                            <h3 className='fontfamily' style={{ fontWeight: 'bolder' }}> *   &ensp; <u>99% Safe for Children's Skin </u> &ensp;  * </h3>
                         </div><br /><br /><br />
 
                         <div className='proj2 row g-4 justify-content-center' >
@@ -209,7 +209,7 @@ const Home = () => {
                         </div><br /><br />
 
                         <div className='porj4'>
-                            <h4 className='a2 a3'><i><b><u><li>INGREDIENTS -</li> </u></b></i></h4>
+                            <h4 className='a2 a3'><b><u><li>INGREDIENTS -</li> </u></b></h4>
                         </div><br />
 
                         <div className='row align-items-center' >
@@ -217,7 +217,7 @@ const Home = () => {
                                 <img src='https://d2j6dbq0eux0bg.cloudfront.net/images/44048789/1979774729.jpg' className='img-fluid' alt='Sweet Almond oil' />
                             </div>
                             <div className='col-12 col-md-5 0ffset-md-2 text-center mt-5 mt-md-0'>
-                                <h2 className='a2'><i><b>1.	Sweet Almond Oil:</b></i></h2>
+                                <h2 className='a2'><b>1.	Sweet Almond Oil:</b></h2>
                                 <ul className='a3 fontsize'>
                                     <li>
                                         Deeply hydrates delicate skin, soothing eczema and dryness.
@@ -234,7 +234,7 @@ const Home = () => {
 
                         <div className='row align-items-center'>
                             <div className='col-12 col-md-5 offset-md-2 text-center mt-5 mt-md-0 '>
-                                <h2 className='a2'><i><b>2.	Jojoba Oil:</b></i></h2>
+                                <h2 className='a2'><b>2.	Jojoba Oil:</b></h2>
                                 <ul className='a3 fontsize'>
                                     <li>
                                         Acts as a superb moisturizer, mirroring the skin's natural oils.
@@ -255,21 +255,21 @@ const Home = () => {
 
                         <div className='a3 fontfamily'>
                             <div className=''>
-                                <h6 className='a2'><i><b><u><li>VARIANTS - </li></u></b></i></h6>
+                                <h6 className='a2'><b><u><li>VARIANTS - </li></u></b></h6>
                             </div><br />
-                            <h3 className='a2 a3'><i><b>1.	Citrus squeeze:</b></i></h3>
+                            <h3 className='a2 a3'><b>1.	Citrus squeeze:</b></h3>
                             <p className='a3 fontsize'>
                                 Citrus extracts in soap offer benefits such as natural fragrance, antioxidant properties, skin brightening, mild exfoliation, and vitamin C content.
                             </p>
-                            <h3 className='a2 a3'><i><b>2.	Melon Marvel:</b></i></h3>
+                            <h3 className='a2 a3'><b>2.	Melon Marvel:</b></h3>
                             <p className='a3 fontsize'>
                                 Watermelon extract in soap provides hydration, vitamins, and antioxidants for the skin. It also offers anti-inflammatory properties, potential skin brightening, and mild exfoliation.gy
                             </p>
-                            <h3 className='a2 a3'><i><b>3.	Fresh feel:</b></i></h3>
+                            <h3 className='a2 a3'><b>3.	Fresh feel:</b></h3>
                             <p className='a3 fontsize'>
                                 Green apple extract in soap provides a refreshing fragrance, vitamins, antioxidants, skin toning, mild exfoliation, and hydration.
                             </p>
-                            <h3 className='a2 a3'><i><b>4.	Love spell:</b></i></h3>
+                            <h3 className='a2 a3'><b>4.	Love spell:</b></h3>
                             <p className='a3 fontsize'>
                                 Evening primrose extract in soap offers moisturizing properties, anti-inflammatory benefits, skin conditioning, richness in gamma-linolenic acid (GLA), and potential relief for skin conditions like eczema and dermatitis.
 
