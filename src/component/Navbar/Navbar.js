@@ -1,7 +1,7 @@
 import React from 'react'
 import '../../../node_modules/bootstrap/dist/css/bootstrap.min.css'
 import '../../../node_modules/bootstrap/dist/js/bootstrap.min.js'
-import logo from '../../Assetss/home/Beige Minimal Personal Make Up Artist Logo - Copy - Copy.png'
+import logo from '../../Assetss/home/soaplogo.com.png'
 import { MdTrolley } from "react-icons/md";
 import '../cssfolder/Nav.css'
 import { FaMagnifyingGlass } from "react-icons/fa6";
@@ -10,10 +10,10 @@ const Navbar = () => {
     return (
         <>
             
-                <nav className="navbar  navbar-light bg-light ">
+                <nav className="navbar  navbar-light bg-light sticky-sm-top">
                     <div className="container-fluid">
                         <a className="navbar-brand" href="#" >
-                            <img src={logo} height='90px' width='200px' class="d-inline-block align-text-top" alt='logo'></img>
+                            <img src={logo} height='60px' width='200px' class="d-inline-block align-text-top" alt='logo'></img>
                         </a>
 
                         <div className='d-flex'>
